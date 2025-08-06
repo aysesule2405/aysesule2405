@@ -7,7 +7,7 @@
 ---
 
 ## 🌱 Currently Learning
-- **Python** and **Java** fundamentals  
+- **Python** and **Java**   
 - Front-end web development: **HTML**, **CSS**, and **JavaScript**  
 - UI/UX principles using tools like **Figma**, **Adobe XD**, and **Canva**  
 - Git, GitHub, and real-world software collaboration workflows
