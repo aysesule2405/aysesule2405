@@ -1,6 +1,6 @@
 ## Hi there 👋 I^m Ayse Sule, I'm a:
 
-- **Computer Science sophomore at NAU**  
+- **Computer Science junior at NAU**  
 - Passionate about combining **technology**, **creativity**, and **design**  
 - Exploring the intersection of **software development** and **UI/UX design**
 
