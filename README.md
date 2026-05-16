@@ -134,12 +134,6 @@ Beyond the code — I paint, sculpt, and make things with my hands.
 <br>
 ---
  
-<div align="center">
-*"What I want to build next is work that earns a second look —*
-*software that feels as deliberate as a good composition."*
- 
-</div>
- 
 ## Connect
  
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1B2A?style=flat&logo=github&logoColor=white)](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/)
