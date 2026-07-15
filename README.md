@@ -1,6 +1,6 @@
 # Ayse Sule Ekiz
 
-### Software Engineer · AI Builder · Creative Technologist
+### Software Engineer · Product Designer · Full-stack Developer
 
 I build intelligent systems, full-stack applications, and immersive digital experiences — blending engineering, AI, and visual storytelling.
 
