@@ -9,7 +9,7 @@ I build intelligent systems, full-stack applications, and immersive digital expe
 💻 Computer Science @ North American University  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1B2A?style=for-the-badge&logo=githubpages&logoColor=white)](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/)
-[![Product Portfolio](https://img.shields.io/badge/Product-Portfolio-0D1B2A?style=for-the-badge&logo=githubpages&logoColor=white)](https://product-portfolio-sly-foxie-projects.vercel.app/)
+[![Product Portfolio](https://img.shields.io/badge/ProductPortfolio-0D1B2A?style=for-the-badge&logo=githubpages&logoColor=white)](https://product-portfolio-sly-foxie-projects.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayse-sule-ekiz-52892a1b6/)
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/ase2327ekiz)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ase2327ekiz@gmail.com)
