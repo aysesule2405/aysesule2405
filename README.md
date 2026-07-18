@@ -1,6 +1,10 @@
 <div align="center">
 <img src="assets/banner.svg" alt="Ayse Sule Ekiz" width="100%" />
-**[Portfolio](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/)** &nbsp;·&nbsp; **[Product Portfolio](https://product-portfolio-omega.vercel.app/)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/ayse-sule-ekiz-52892a1b6/)** &nbsp;·&nbsp; **[Devpost](https://devpost.com/ase2327ekiz)** &nbsp;·&nbsp; **[Email](mailto:ase2327ekiz@gmail.com)**
+[![Portfolio](https://img.shields.io/badge/Portfolio-3058A0?style=for-the-badge&logo=githubpages&logoColor=E9E3DA)](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/)
+[![Product Portfolio](https://img.shields.io/badge/Product_Portfolio-4891EB?style=for-the-badge&logo=vercel&logoColor=E9E3DA)](https://product-portfolio-omega.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3058A0?style=for-the-badge&logo=linkedin&logoColor=E9E3DA)](https://www.linkedin.com/in/ayse-sule-ekiz-52892a1b6/)
+[![Devpost](https://img.shields.io/badge/Devpost-4891EB?style=for-the-badge&logo=devpost&logoColor=E9E3DA)](https://devpost.com/ase2327ekiz)
+[![Email](https://img.shields.io/badge/Email-3058A0?style=for-the-badge&logo=gmail&logoColor=E9E3DA)](mailto:ase2327ekiz@gmail.com)
  
 </div>
 ---
