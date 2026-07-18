@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.svg" alt="Ayse Sule Ekiz" width="100%" />
+<img src="banner.svg" alt="Ayse Sule Ekiz" width="100%" />
 <p>
 <a href="https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/"><img src="https://img.shields.io/badge/Portfolio-3058A0?style=for-the-badge&logo=githubpages&logoColor=E9E3DA" alt="Portfolio"/></a>
 <a href="https://product-portfolio-omega.vercel.app/"><img src="https://img.shields.io/badge/Product_Portfolio-4891EB?style=for-the-badge&logo=vercel&logoColor=E9E3DA" alt="Product Portfolio"/></a>
