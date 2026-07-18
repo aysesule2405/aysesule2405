@@ -22,7 +22,7 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
 | **[Framewise](https://github.com/aysesule2405/framewise)** | Turns browser video into a searchable, AI-tutored workspace | React, Node/Express, MongoDB Atlas, Gemini 2.5, TF.js | 🥇 HackHCC 2026 — Best AI + Best MongoDB |
 | **[Obi](https://github.com/LAHacks2026/Obi_Laptop)** | Privacy-first local AI desktop assistant, zero cloud dependency | Electron, React, Gemma, RAG | 🏆 LA Hacks 2026 — Figma Make Challenge Winner |
 | **[Whisperwind Grove](https://github.com/aysesule2405/WW)** | Multi-game platform, shared identity, AI-driven NPC | React, TypeScript, Express, MongoDB | CS Capstone — Full Marks |
-| **[OpenStaxAlign](https://github.com/iremdmrc/datathon-openstax)** *(team)* | ML pipeline classifying curriculum standards | Python, scikit-learn, MongoDB | 🥈 Rice Datathon 2026 — 2nd + Track Winner |
+| **[OpenStaxAlign](https://github.com/iremdmrc/datathon-openstax)** | ML pipeline classifying curriculum standards | Python, scikit-learn, MongoDB | 🥈 Rice Datathon 2026 — 2nd + Track Winner |
 | **NAU Athletics Portal** | Production UX + design system for 1,000+ daily users | React, Python, PostgreSQL, Figma | ~60% less manual reporting work |
 | **Istanbul Small-Business Sites** | Websites for 3–5 local shops, high school community project | Flask, MySQL, WordPress | First real client work |
  
