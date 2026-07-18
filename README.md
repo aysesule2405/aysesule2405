@@ -19,7 +19,7 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
 | Project | What it does | Stack | Result |
 |---|---|---|---|
 | **[Aperture](https://github.com/aysesule2405/aperture)** | AI Slack agent, auto-writes screen-reader descriptions for images/charts | Bolt, Gemini Flash, SQLite | Slack Agent Builder Challenge 2026 |
-| **Framewise** *(link TBD)* | Turns browser video into a searchable, AI-tutored workspace | React, Node/Express, MongoDB Atlas, Gemini 2.5, TF.js | 🥇 HackHCC 2026 — Best AI + Best MongoDB |
+| **[Framewise](https://github.com/aysesule2405/framewise)** | Turns browser video into a searchable, AI-tutored workspace | React, Node/Express, MongoDB Atlas, Gemini 2.5, TF.js | 🥇 HackHCC 2026 — Best AI + Best MongoDB |
 | **[Obi](https://github.com/LAHacks2026/Obi_Laptop)** | Privacy-first local AI desktop assistant, zero cloud dependency | Electron, React, Gemma, RAG | 🏆 LA Hacks 2026 — Figma Make Challenge Winner |
 | **[Whisperwind Grove](https://github.com/aysesule2405/WW)** | Multi-game platform, shared identity, AI-driven NPC | React, TypeScript, Express, MongoDB | CS Capstone — Full Marks |
 | **[OpenStaxAlign](https://github.com/iremdmrc/datathon-openstax)** *(team)* | ML pipeline classifying curriculum standards | Python, scikit-learn, MongoDB | 🥈 Rice Datathon 2026 — 2nd + Track Winner |
