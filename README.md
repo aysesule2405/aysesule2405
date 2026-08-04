@@ -32,10 +32,10 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
  
 | | |
 |---|---|
-| **Languages** | Python · JS/TS · SQL · HTML/CSS · Java *(project)* · C++ *(coursework)* |
+| **Languages** | Python · JS/TS · SQL · HTML/CSS · Java · C++ *(coursework)* |
 | **Frontend** | React · Electron · Vite · Tailwind · Figma · WordPress · WCAG |
 | **Backend** | Node/Express · Flask · REST APIs · MongoDB · PostgreSQL · MySQL · SQLite |
-| **AI/ML** | Gemini API · Gemma (local) · RAG · TensorFlow.js · scikit-learn |
+| **AI/ML** | Gemini API · Gemma · RAG · TensorFlow.js · scikit-learn |
 | **Tools** | Git · Agile/Scrum · Adobe CS · Clip Studio Paint |
  
 ---
@@ -45,7 +45,7 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
 | Role | Where | When |
 |---|---|---|
 | Software Engineering Intern | ForgeMind | Feb–Jul 2025 |
-| Design & Content Associate (UMCR) | North American University | Sep 2024–Present |
+| IT & Design Associate (UMCR) | North American University | Sep 2024–Present |
 | AI Research Intern | Koç University | Jun 2022–May 2023 |
  
 ---
@@ -54,11 +54,11 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
  
 | Role | Org |
 |---|---|
-| Founder & President | ACM-Women (50+ members) |
+| President | ACM-Women (50+ members) |
 | Chapter Lead | Google Developer Student Club |
 | President '24–'25 | Design Club |
 | VP & Tutor | Art Club |
-| Campus Ambassador | World U (paid) |
+| Campus Ambassador | World U |
 | Student Ambassador | Girls Who Code |
  
 ---
