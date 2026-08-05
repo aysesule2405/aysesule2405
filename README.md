@@ -23,7 +23,7 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
 | **[Obi](https://github.com/LAHacks2026/Obi_Laptop)** | Privacy-first local AI desktop assistant, zero cloud dependency | Electron, React, Gemma, RAG | 🏆 LA Hacks 2026 — Figma Make Challenge Winner |
 | **[Whisperwind Grove](https://github.com/aysesule2405/WW)** | Multi-game platform, shared identity, AI-driven NPC | React, TypeScript, Express, MongoDB | CS Capstone — Full Marks |
 | **[OpenStaxAlign](https://github.com/iremdmrc/datathon-openstax)** | ML pipeline classifying curriculum standards | Python, scikit-learn, MongoDB | 🥈 Rice Datathon 2026 — 2nd + Track Winner |
-| **NAU Athletics Portal** | Production UX + design system for 1,000+ daily users | React, Python, PostgreSQL, Figma | ~60% less manual reporting work |
+| **[Atelier](https://github.com/aysesule2405/atelier_starter)** | A mentor that watches your art grow ˖.𖥔 ݁ ˖ ⊹ ࣪ ˖ not a bot that grades one upload. | JavaScript, HTML, CSS, React, OpenAI API, Figma | give artists a private studio mentor between human critiques. |
 | **Istanbul Small-Business Sites** | Websites for 3–5 local shops, high school community project | Flask, MySQL, WordPress | First real client work |
  
 ---
