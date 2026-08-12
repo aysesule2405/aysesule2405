@@ -10,7 +10,7 @@
 </div>
 ---
  
-I build with code. I think with art. Full-stack + AI on one side, painting, printmaking, and ceramics on the other.
+I build with code. I think with art. Full-stack + product design on one side, painting, printmaking, and ceramics on the other.
  
 ---
  
@@ -32,7 +32,7 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
  
 | | |
 |---|---|
-| **Languages** | Python · JS/TS · SQL · HTML/CSS · Java · C++ *(coursework)* |
+| **Languages** | Python · JS/TS · SQL · HTML/CSS · Java · C++ |
 | **Frontend** | React · Electron · Vite · Tailwind · Figma · WordPress · WCAG |
 | **Backend** | Node/Express · Flask · REST APIs · MongoDB · PostgreSQL · MySQL · SQLite |
 | **AI/ML** | Gemini API · Gemma · RAG · TensorFlow.js · scikit-learn |
@@ -64,6 +64,6 @@ I build with code. I think with art. Full-stack + AI on one side, painting, prin
 ---
  
 ## Beyond Engineering
- 
-🎨 [Graphic Design](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/graphicdesign.html) &nbsp;·&nbsp; 🏺 [Ceramics](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/ceramics.html) &nbsp;·&nbsp; 🖌️ [Painting](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/painting.html)
+
+🪮 [Graphic Design](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/graphicdesign.html) &nbsp;·&nbsp; 🏺 [Ceramics](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/ceramics.html) &nbsp;·&nbsp; 🖼️ [Painting](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/painting.html)
  
