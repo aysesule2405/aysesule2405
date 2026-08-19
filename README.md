@@ -65,5 +65,6 @@ I build with code. I think with art. Full-stack + product design on one side, pa
  
 ## Beyond Engineering
 
+Get to know me through my work:
 🪮 [Graphic Design](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/graphicdesign.html) &nbsp;·&nbsp; 🏺 [Ceramics](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/ceramics.html) &nbsp;·&nbsp; 🖼️ [Painting](https://aysesule2405.github.io/ayse-sule-ekiz-portfolio/painting.html)
  
