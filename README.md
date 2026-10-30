@@ -58,6 +58,7 @@ I build with code. I think with art. Full-stack + product design on one side, pa
 | Chapter Lead | Google Developer Student Club |
 | President '24–'25 | Design Club |
 | VP & Tutor | Art Club |
+| Campus Ambassador | Base44 |
 | Campus Ambassador | World U |
 | Student Ambassador | Girls Who Code |
  
